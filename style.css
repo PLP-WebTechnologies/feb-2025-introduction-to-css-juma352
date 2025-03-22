@@ -1,0 +1,46 @@
+/* Basic CSS Styles */
+
+/* Selector 1: Element Selector */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Selector 2: Class Selector */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Selector 3: ID Selector */
+#main-title {
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Styling an image */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Additional styles */
+p {
+    line-height: 1.6;
+    color: #555;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
